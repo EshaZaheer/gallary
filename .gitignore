@@ -1,0 +1,7 @@
+node_modules/
+ios/
+android/
+_tests_/
+.vscode/
+.buckconfig/
+.editorconfig/
